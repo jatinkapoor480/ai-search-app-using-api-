@@ -1,0 +1,13 @@
+.searchbar{
+    border-radius: 12px;
+    border: none;
+}
+.searchbar:hover{
+    background-color: rgb(236, 236, 234);
+}
+
+.submit{
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}

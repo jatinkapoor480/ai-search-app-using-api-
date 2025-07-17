@@ -1,0 +1,14 @@
+body{
+  background-image: url('./assets/aiimage.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.heading{
+    color: white;
+}
